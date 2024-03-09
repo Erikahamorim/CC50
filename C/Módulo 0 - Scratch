@@ -1,0 +1,16 @@
+Ciência da Computação => resolver problemas
+
+Linguagem binária - sistema de base 2 => 0 e 1
+
+bits 
+
+ASCII - padrão americano de Código de Intercâmbio de Informações => letras em números (8 bits => 1byte)
+
+Evoluindo para abranger uma maior variedade de pontuações e caracterees, houve a evolução para UNICODE
+    - caracteres representados em padrões de 8, 16,42 ou 32 bits
+
+pixels - "quadrados" que representam uma cor
+    resolução => quantidade de pixels na vertical e na horizontal
+    
+função - ação ou verbo a ser executado pelo programa
+=> desenvolver o código por partes, e essas partes se complemetam para a solução de um problema mais complexo
